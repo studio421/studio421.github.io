@@ -911,7 +911,7 @@ a.link {
   text-align: center;
   cursor: default;
   margin: 15px 0;
-  border: 2px solid #595757; }
+  }
   /* line 1004, ../sass/style.scss */
   .gallery .overlay {
     width: 100%;
@@ -1756,6 +1756,8 @@ ul#portfolio-filter .no-padd img {
 /* line 1869, ../sass/style.scss */
 .contact-info {
   text-align: center; }
+  .contact-info h2 {
+  text-align: left; }
   .contact-info p {
   text-align: left; }
   /* line 1871, ../sass/style.scss */
