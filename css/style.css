@@ -7,7 +7,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   line-height: 1.8em;
-  color: #595757; }
+  color: #595757; }xz
 
 /* line 16, ../sass/style.scss */
 h1, h2, h3, h4, h5, h6 {
@@ -347,8 +347,7 @@ a.link {
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
-  background: rgba(0, 0, 0, 0.7); }
+  transition: all 0.5s ease-in-out; }
   /* line 317, ../sass/style.scss */
   .navbar-inverse .navbar-nav li a {
     color: #595757; }
