@@ -121,6 +121,10 @@ blockquote .small, blockquote footer, blockquote small {
 	background-color
 ====================================================*/
 /* line 120, ../sass/style.scss */
+
+.white-bg { 
+  background: #fff; }
+  
 .dark-bg {
   background: #000; }
 
