@@ -1756,6 +1756,8 @@ ul#portfolio-filter .no-padd img {
 /* line 1869, ../sass/style.scss */
 .contact-info {
   text-align: center; }
+  .contact-info p {
+  text-align: left; }
   /* line 1871, ../sass/style.scss */
   .contact-info i {
     display: block;
