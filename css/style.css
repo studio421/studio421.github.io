@@ -348,10 +348,9 @@ a.link {
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
-  background: rgba(0, 0, 0, 0.7); }
+   }
   /* line 317, ../sass/style.scss */
-  .navbar-inverse .navbar-nav li a {
-    color: #f1f1f1; }
+  .navbar-inverse .navbar-nav li a { }
     /* line 319, ../sass/style.scss */
     .navbar-inverse .navbar-nav li a:hover, .navbar-inverse .navbar-nav li a.active {
       font-weight: bold;
