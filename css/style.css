@@ -197,7 +197,7 @@ blockquote .small, blockquote footer, blockquote small {
       display: inline-block;
       text-align: center;
       font-size: 14px;
-      background: #f1f1f1;
+      background: #595757;
       line-height: 28px;
       margin-right: 5px; }
       /* line 155, ../sass/style.scss */
@@ -263,7 +263,7 @@ a.link {
   height: 64px;
   line-height: 64px;
   font-size: 32px;
-  border: 2px solid #f1f1f1;
+  border: 2px solid #595757;
   display: inline-block;
   text-align: center;
   margin-top: 50px;
@@ -280,7 +280,7 @@ a.link {
   display: inline-block;
   font-size: 15px;
   color: #595757;
-  border: 2px solid #f1f1f1;
+  border: 2px solid #595757;
   text-transform: uppercase;
   margin: 5px 2px 5px 0;
   background-color: rgba(255, 255, 255, 0.1); }
@@ -295,7 +295,7 @@ a.link {
   background: rgba(0, 0, 0, 0.3);
   font-size: 15px;
   color: #595757;
-  border: 2px solid #f1f1f1;
+  border: 2px solid #595757;
   text-transform: uppercase;
   margin: 5px 2px 5px 0; }
   /* line 259, ../sass/style.scss */
@@ -320,7 +320,7 @@ a.link {
   .section-heading .separator {
     width: 30px;
     height: 4px;
-    background: #f1f1f1;
+    background: #595757;
     text-align: center;
     display: inline-block; }
 
@@ -738,7 +738,7 @@ a.link {
 ====================================================*/
 /* line 793, ../sass/style.scss */
 .owl-theme .owl-controls .owl-page span {
-  background: #f1f1f1; }
+  background: #595757; }
 
 /* line 797, ../sass/style.scss */
 .owl-pagination {
@@ -775,7 +775,7 @@ a.link {
     font-size: 36px;
     padding: 20px;
     margin-bottom: 10px;
-    border: 2px solid #f1f1f1;
+    border: 2px solid #595757;
     background: rgba(225, 225, 225, 0.2);
     display: inline-block;
     text-align: center; }
@@ -793,7 +793,7 @@ a.link {
     font-size: 36px;
     padding: 20px;
     margin-bottom: 10px;
-    border: 2px solid #f1f1f1;
+    border: 2px solid #595757;
     background: rgba(225, 225, 225, 0.2);
     display: inline-block;
     text-align: center; }
@@ -862,8 +862,8 @@ a.link {
 ====================================================*/
 /* line 948, ../sass/style.scss */
 .image-box {
-  border: 2px solid #f1f1f1;
-  background: #f1f1f1;
+  border: 2px solid #595757;
+  background: #595757;
   margin: 15px 0; }
   /* line 952, ../sass/style.scss */
   .image-box img {
@@ -911,7 +911,7 @@ a.link {
   text-align: center;
   cursor: default;
   margin: 15px 0;
-  border: 2px solid #f1f1f1; }
+  border: 2px solid #595757; }
   /* line 1004, ../sass/style.scss */
   .gallery .overlay {
     width: 100%;
@@ -959,7 +959,7 @@ a.link {
     display: inline-block;
     text-transform: uppercase;
     color: #595757;
-    border: 2px solid #f1f1f1;
+    border: 2px solid #595757;
     background-color: transparent;
     opacity: 0;
     filter: alpha(opacity=0);
@@ -1126,7 +1126,7 @@ ul#portfolio-filter .no-padd img {
     font-size: 13px; }
   /* line 1211, ../sass/style.scss */
   .team-box1 img {
-    border: 2px solid #f1f1f1;
+    border: 2px solid #595757;
     -webkit-filter: grayscale(0);
     -webkit-transition: .5s ease-in-out;
     -moz-filter: grayscale(0);
@@ -1157,7 +1157,7 @@ ul#portfolio-filter .no-padd img {
   /* line 1247, ../sass/style.scss */
   .team-box4 img {
     border-radius: 100%;
-    border: 2px solid #f1f1f1;
+    border: 2px solid #595757;
     -webkit-filter: grayscale(0);
     -webkit-transition: .5s ease-in-out;
     -moz-filter: grayscale(0);
@@ -1188,7 +1188,7 @@ ul#portfolio-filter .no-padd img {
   margin: 15px 0;
   position: relative;
   overflow: hidden;
-  border: 2px solid #f1f1f1;
+  border: 2px solid #595757;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
@@ -1261,7 +1261,7 @@ ul#portfolio-filter .no-padd img {
   margin: 40px 0; }
   /* line 1362, ../sass/style.scss */
   .testimonial-box1 .content {
-    border: 2px solid #f1f1f1;
+    border: 2px solid #595757;
     padding: 10px;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -1278,7 +1278,7 @@ ul#portfolio-filter .no-padd img {
     .testimonial-box1 .author img {
       width: 62px;
       height: 62px;
-      border: 2px solid #f1f1f1;
+      border: 2px solid #595757;
       margin: 10px 0;
       float: left; }
     /* line 1380, ../sass/style.scss */
@@ -1305,7 +1305,7 @@ ul#portfolio-filter .no-padd img {
       width: 62px;
       height: 62px;
       margin: 10px 0;
-      border: 2px solid #f1f1f1; }
+      border: 2px solid #595757; }
   /* line 1404, ../sass/style.scss */
   .testimonial-box2 .content {
     position: relative;
@@ -1362,7 +1362,7 @@ ul#portfolio-filter .no-padd img {
   .testimonial-box3 img {
     width: 82px;
     height: 82px;
-    border: 2px solid #f1f1f1;
+    border: 2px solid #595757;
     margin: 30px auto 15px; }
   /* line 1455, ../sass/style.scss */
   .testimonial-box3 i {
@@ -1385,7 +1385,7 @@ ul#portfolio-filter .no-padd img {
   margin: 40px 0;
   background: rgba(255, 255, 255, 0.1);
   padding: 20px;
-  border: 2px solid #f1f1f1;
+  border: 2px solid #595757;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
@@ -1414,7 +1414,7 @@ ul#portfolio-filter .no-padd img {
   text-align: center;
   background: rgba(255, 255, 255, 0.1);
   padding: 20px;
-  border: 2px solid #f1f1f1;
+  border: 2px solid #595757;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
@@ -1456,13 +1456,13 @@ ul#portfolio-filter .no-padd img {
     width: 20%;
     height: 1px;
     color: #595757;
-    background: #f1f1f1;
+    background: #595757;
     margin: 30px auto; }
 
 /* line 1547, ../sass/style.scss */
 .price-box3 {
   margin: 40px 0;
-  background: #f1f1f1;
+  background: #595757;
   color: #555;
   padding: 20px; }
   /* line 1552, ../sass/style.scss */
@@ -1506,7 +1506,7 @@ ul#portfolio-filter .no-padd img {
   /* line 1591, ../sass/style.scss */
   .blog-box1 figure {
     overflow: hidden;
-    border: 2px solid #f1f1f1; }
+    border: 2px solid #595757; }
     /* line 1595, ../sass/style.scss */
     .blog-box1 figure:hover img {
       -ms-transform: scale(1.1);
@@ -1541,7 +1541,7 @@ ul#portfolio-filter .no-padd img {
   .blog-box2 figure {
     overflow: hidden;
     position: relative;
-    border: 2px solid #f1f1f1; }
+    border: 2px solid #595757; }
   /* line 1632, ../sass/style.scss */
   .blog-box2 h4 {
     margin: 20px 0 10px; }
@@ -1586,7 +1586,7 @@ ul#portfolio-filter .no-padd img {
         margin-right: 5px; }
   /* line 1676, ../sass/style.scss */
   .blog-box3 figure {
-    border: 2px solid #f1f1f1;
+    border: 2px solid #595757;
     float: left; }
     /* line 1679, ../sass/style.scss */
     .blog-box3 figure img {
@@ -1604,7 +1604,7 @@ ul#portfolio-filter .no-padd img {
   margin: 60px 0; }
   /* line 1698, ../sass/style.scss */
   #blog-single figure {
-    border: 2px solid #f1f1f1; }
+    border: 2px solid #595757; }
   /* line 1701, ../sass/style.scss */
   #blog-single h2 {
     margin: 10px 0; }
@@ -1842,7 +1842,7 @@ ul#portfolio-filter .no-padd img {
     border-radius: 4px;
     border-radius: 4px;
     background: transparent;
-    border: 2px solid #f1f1f1; }
+    border: 2px solid #595757; }
   /* line 1963, ../sass/style.scss */
   .panel-group .panel-heading {
     position: relative;
@@ -1885,7 +1885,7 @@ ul#portfolio-filter .no-padd img {
 /* line 2003, ../sass/style.scss */
 .nav-tabs {
   margin: 40px 0;
-  border-bottom: 2px solid #f1f1f1;
+  border-bottom: 2px solid #595757;
   margin-bottom: 15px; }
   /* line 2007, ../sass/style.scss */
   .nav-tabs li {
@@ -1910,7 +1910,7 @@ ul#portfolio-filter .no-padd img {
     .nav-tabs li.active a, .nav-tabs li.active a:hover, .nav-tabs li.active a:focus {
       background: rgba(255, 255, 255, 0.1);
       color: white;
-      border: 2px solid #f1f1f1;
+      border: 2px solid #595757;
       border-bottom: 0;
       -webkit-border-top-left-radius: 3px;
       -webkit-border-top-right-radius: 3px;
@@ -2013,7 +2013,7 @@ ul#portfolio-filter .no-padd img {
 /* line 2134, ../sass/style.scss */
 .selection {
   padding: 40px 0;
-  background: #f1f1f1; }
+  background: #595757; }
   /* line 2137, ../sass/style.scss */
   .selection .item {
     text-align: center;
